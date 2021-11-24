@@ -1,0 +1,47 @@
+PODS:
+  - Alamofire (5.4.4)
+  - AlamofireImage (4.2.0):
+    - Alamofire (~> 5.4)
+  - FSPagerView (0.8.3)
+  - JGProgressHUD (2.2)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - RevealingSplashView (0.6.0)
+  - SnapKit (5.0.1)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - AlamofireImage (~> 4.1)
+  - FSPagerView
+  - JGProgressHUD
+  - NVActivityIndicatorView
+  - RevealingSplashView
+  - SnapKit (~> 5.0.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - FSPagerView
+    - JGProgressHUD
+    - NVActivityIndicatorView
+    - RevealingSplashView
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  AlamofireImage: 34a2d90b0e5fe6a5605f85ae4b7b01e784c60192
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  RevealingSplashView: 40c5a770894459736acdc95655eeba0dd30ce91c
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 4d9dc733cf9f1f381c9b75e45c36f678a4e3ac23
+
+COCOAPODS: 1.11.2
